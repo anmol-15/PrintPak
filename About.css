@@ -1,0 +1,54 @@
+
+.Pp{
+    background-color: white;
+    opacity: .80;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: red;
+    font-size: medium;
+    
+}
+.Nav{
+    background-color: red;
+    /* padding-bottom: 0.1%;
+    padding-top: 0.1%;
+    padding-left: 5%;
+    padding-right: 5%; */
+    font-size: large;
+}
+body{
+    /* background-image: url(Img/Logo.png);
+    background-repeat: round;
+    background-size: cover; */
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: black;
+    font-size: 100%;
+}
+
+.About{
+    background-color: white;
+    opacity: .80;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Aboutp{
+    padding-left: 1%;
+    padding-right: 1%;
+    /* padding-top: 1%; */
+    /* padding-bottom: 1%; */
+    color: red;
+    font-size: medium;
+    text-align: justify;
+    /* margin-top: 5%; */
+}
+.Footer{
+    background-color: lightblue;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
